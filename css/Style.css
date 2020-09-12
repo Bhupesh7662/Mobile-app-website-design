@@ -314,7 +314,7 @@ header {
 }
 
 @keyframes fadeInTop {
-    0 {
+    0% {
         opacity: 0;
     }
 
